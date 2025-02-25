@@ -192,3 +192,8 @@ th, td {
     padding: 8px;
     text-align: left;
 }
+
+a {
+    text-decoration: none ;
+    color: rgb(61, 61, 61);
+}
