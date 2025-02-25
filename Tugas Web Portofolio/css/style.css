@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 html,
 body {
@@ -27,6 +26,11 @@ nav > .wrapper {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+nav > .wrapper > div > a {
+    color: azure;
+    text-decoration: none;
 }
 
 .menu {
